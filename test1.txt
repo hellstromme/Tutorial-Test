@@ -1,9 +1,11 @@
-Test doc 1.!
+£Test doc 1.!
 Adding a line...!
-Hi this is Sue!
+Hi this is Sue!..n
 
 Here is Dave's line!
 
 James' line...!
 
 Some change.!
+
+And another line.
