@@ -1,9 +1,9 @@
-Test doc 1.
-Adding a line...
-Hi this is Sue.
+Test doc 1.!
+Adding a line...!
+Hi this is Sue!
 
-Here is Dave's line
+Here is Dave's line!
 
-James' line...
+James' line...!
 
-Some change.
+Some change.!
