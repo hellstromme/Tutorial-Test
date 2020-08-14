@@ -1,7 +1,11 @@
-Test doc 1.
-Add a line.
-Hi this is Sue.
+£Test doc 1.
+Adding a line...
+Hi this is Sue..n
 
 Here is Dave's line
 
-Adding another line
+James' line...
+
+Some change.
+
+And another line.
